@@ -1,4 +1,4 @@
-# Modeling-Car-Insurance-Claim-Outcomes
+# Modeling Car Insurance Claim Outcomes
 
 ## Project Overview
 
@@ -38,7 +38,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/phoenixak/Analyzing-Car-Reviews-with-LLMs](https://github.com/phoenixak/Modeling-Car-Insurance-Claim-Outcomes).git
+   git clone https://github.com/phoenixak/Modeling-Car-Insurance-Claim-Outcomes.git
    cd Modeling-Car-Insurance-Claim-Outcomes
 
 2. **Create a virtual environment:**
