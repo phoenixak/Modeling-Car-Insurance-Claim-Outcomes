@@ -1,0 +1,18 @@
+artifact_path: best_logistic_regression_model
+flavors:
+  python_function:
+    data: model.statsmodels
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.statsmodels
+    python_version: 3.12.4
+  statsmodels:
+    code: null
+    data: model.statsmodels
+    statsmodels_version: 0.14.2
+mlflow_version: 2.16.0
+model_size_bytes: 1703869
+model_uuid: 4a5ad7ea848e4c1fbd60616ecc36ef44
+run_id: 6a9cd623752a448ca029a46f046c138d
+utc_time_created: '2024-09-03 18:00:20.438569'
